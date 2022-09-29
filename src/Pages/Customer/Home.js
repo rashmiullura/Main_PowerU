@@ -3,7 +3,6 @@ import Navbar from "./Navbar";
 import Filter from "./Filter";
 import Sort from "./Sort";
 import "./style.css";
-
 import { Link } from "react-router-dom";
 import Texta from "./Texta";
 
@@ -39,7 +38,6 @@ function Home() {
               <Filter />
               <Sort />
             </div>
-
           </div>
         </div>
 
@@ -48,7 +46,7 @@ function Home() {
             return (
               <div
                 className="card"
-                style={{ width: "24%", marginTop: "1px" }}
+                style={{ width: "24%", marginTop: "0px" }}
               >
                 <div className="card text-center">
                   <div key={product.id}>

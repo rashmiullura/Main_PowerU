@@ -5,9 +5,6 @@
   margin: auto;
 }
 
-.product-header {
-  padding: 2em;
-}
 
 .product-title{
   font-size: 3em;
@@ -18,7 +15,6 @@
 .product-search-filter{
   font-size: 3em;
   font-weight: 900;
-  padding-bottom: 1em;
   display: flex;
 }
 
@@ -32,7 +28,7 @@ img {
     align-items: center;
     padding: 0px;
     gap: 8px;
-    margin-right:40px;
+    margin-right:10px;
   }
 
   .flex-container{
