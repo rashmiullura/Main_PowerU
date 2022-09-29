@@ -46,15 +46,16 @@ function Home() {
             return (
               <div
                 className="card"
-                style={{ width: "24%", marginTop: "0px" }}
+                style={{ width: "24%", marginTop: "20px", padding:"1%"}}
               >
-                <div className="card text-center">
+                <div className="card-text-center" >
                   <div key={product.id}>
-                    <Link to="/information" className="btn-link">
+                    <Link to="/information" className="btn-link" >
                       <img
                         className="card-img-top"
                         src={product.image}
                         alt={`Preview of ${product.title}`}
+                        style={{marginLeft:"24%"}}
                       />
                     </Link>
                     <div className="card-body">

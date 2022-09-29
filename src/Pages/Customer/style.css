@@ -5,6 +5,9 @@
   margin: auto;
 }
 
+.product-header {
+  padding: 1em;
+}
 
 .product-title{
   font-size: 3em;

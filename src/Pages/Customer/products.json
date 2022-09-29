@@ -1,61 +1,61 @@
 [{
-    "title": "Battery x",
+    "title": "Trever",
     "image": "/images/battery.jpeg",
     "id": "battery",
     "description": "2000mah fully charged premium battery",
-    "price": "2000"
+    "price": "195"
   },
 
   {
-    "title": "Battery x",
+    "title": "Emptek",
     "image": "/images/battery.jpeg",
     "id": "battery",
     "description": "2000mah fully charged premium battery",
-    "price": "2000"
+    "price": "275"
   },
   {
-    "title": "Battery x",
+    "title": "Tronny",
     "image": "/images/battery.png",
     "id": "battery",
-    "description": "2000mah fully charged premium battery",
-    "price": "2000"
+    "description": "1000mah fully charged premium battery",
+    "price": "200"
   },
 
   {
-    "title": "Battery y",
+    "title": "Tronny",
     "image": "/images/battery.png",
     "id": "battery",
-    "description": "2000mah fully charged premium battery",
-    "price": "1000"
+    "description": "1000mah fully charged premium battery",
+    "price": "100"
   },
   {
-    "title": "Battery z",
+    "title": "Emptek",
     "image": "/images/battery.jpeg",
     "id": "battery",
     "description": "2000mah fully charged premium battery",
-    "price": "1500"
+    "price": "150"
   },
 
   {
-    "title": "Battery x",
+    "title": "Tronny",
     "image": "/images/battery.png",
     "id": "battery",
-    "description": "2000mah fully charged premium battery",
-    "price": "2000"
+    "description": "1000mah fully charged premium battery",
+    "price": "265"
   },
   {
-    "title": "Battery x",
+    "title": "Tronny",
     "image": "/images/battery.png",
     "id": "battery",
-    "description": "2000mah fully charged premium battery",
-    "price": "2000"
+    "description": "1000mah fully charged premium battery",
+    "price": "233"
   },
 
   {
-    "title": "Battery y",
+    "title": "Trever",
     "image": "/images/battery.jpeg",
     "id": "battery",
     "description": "2000mah fully charged premium battery",
-    "price": "1000"
+    "price": "265"
   }
 ]
